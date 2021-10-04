@@ -7,6 +7,7 @@ const List = ({ listKey, title, listCards = [], dropHandler = () => {}, dragover
 			borderBottom : '1px solid #e0e0e0',
 			margin       : '0px -8px 8px -8px',
 			padding      : '0px 8px',
+			width        : '200px',
 
 		}}
 		>
